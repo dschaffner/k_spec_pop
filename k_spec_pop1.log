@@ -1,36 +1,28 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.26)  29 JUL 2013 20:20
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.26)  24 OCT 2013 17:36
 entering extended mode
-**C:/Users/David*Schaffner/Documents/GitHub/k_spec_pop/k_spec_pop1.tex
-("C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/k_spec_pop1.tex"
+**k_spec_pop1.tex
+("C:\Users\David Schaffner\Documents\GitHub\k_spec_pop\k_spec_pop1.tex"
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-
-("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\revtex4-
-1.cls"
-Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
-ex4/ for documentation)
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
+, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
+ian, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
+ kannada, kurmanji, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ngerman
+-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, sloven
+ian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, w
+elsh, loaded.
+("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\revtex4-1.cls"
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for documentation)
  Copyright (c) 2009 The American Physical Society.
  mailto:revtex@aps.org
  Licensed under the LPPL:
 http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
  Arthur Ogawa <arthur_ogawa at sbcglobal dot net>
  Based on work by David Carlisle <david at dcarlisle.demon.co.uk>.
-ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
-. Baxter web at superscript.com)]
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E. Baxter web at superscript.com)]
 LaTeX Info: Redefining \@centercr on input line 308.
 Class revtex4-1 Info: Repairing broken LaTeX eqnarray on input line 358.
 \eqncolsep=\skip41
-Class revtex4-1 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfoot
-note on input line 433.
+Class revtex4-1 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfootnote on input line 433.
 Class revtex4-1 Info: Repairing broken LateX \@sect on input line 755.
 \intertabularlinepenalty=\count79
 \@tbpen=\count80
@@ -41,8 +33,7 @@ ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
 \c@affil=\count81
 \c@collab=\count82
 \absbox=\box27
-ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
-. Baxter web at superscript.com)]
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E. Baxter web at superscript.com)]
 \c@linecount=\count83
 \output@latex=\toks14
 \box@size@1=\box28
@@ -55,8 +46,7 @@ ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
 \pagesofar=\box34
 \footsofar=\box35
 \pagegrid@col=\count84
-Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
- \\  on input line 5578.
+Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and \\  on input line 5578.
 \c@part=\count85
 \c@section=\count86
 \c@subsection=\count87
@@ -75,9 +65,7 @@ Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
 \widetext@top=\box39
 \widetext@bot=\box40
 Class revtex4-1 Info: Selecting society aip on input line 7542.
-
-("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\aip4-1.r
-tx"
+("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\aip4-1.rtx"
 File: aip4-1.rtx 2010/07/25 4.1r AIP substyle for REVTeX
 Class revtex4-1 Info: RevTeX society AIP selected on input line 67.
 )
@@ -85,19 +73,16 @@ Class revtex4-1 Info: Selecting journal pop on input line 7544.
 
 Using journal substyle pop.
 Class revtex4-1 Info: Reading file aps10pt4-1.rtx on input line 7547.
-
-("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\aps10pt4
--1.rtx"
-File: aps10pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
-documentation)
+("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\aps10pt4-1.rtx"
+File: aps10pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for documentation)
 Class revtex4-1 Info: RevTeX pointsize 10pt selected on input line 30.
 )
 Class revtex4-1 Info: Overriding 10pt on input line 7547.
 
-("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\textcase\textca
-se.sty"
+("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\textcase\textcase.sty"
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
@@ -172,8 +157,7 @@ LaTeX Info: Redefining \] on input line 2666.
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.s
-ty"
+("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip47
 \bibsep=\skip48
@@ -182,14 +166,13 @@ LaTeX Info: Redefining \cite on input line 694.
 )
 Class revtex4-1 Info: Repairing natbib's \BibitemShut on input line 7549.
 
-("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\revsymb4
--1.sty"
-Package: revsymb4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ f
-or documentation)
+("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\revsymb4-1.sty"
+Package: revsymb4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for documentation)
 LaTeX Info: Redefining \frak on input line 95.
 LaTeX Info: Redefining \Bbb on input line 111.
 LaTeX Info: Redefining \REV@mathfrak on input line 119.
-)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
@@ -242,7 +225,6 @@ LaTeX Info: Redefining \bm on input line 204.
 )
 Class revtex4-1 Info: Patching array package. on input line 21.
 Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 21.
-
 Class revtex4-1 Info: cite was not loaded (OK!) on input line 21.
 Class revtex4-1 Info: mcite was not loaded (OK!) on input line 21.
 Class revtex4-1 Info: multicol was not loaded (OK!) on input line 21.
@@ -261,8 +243,7 @@ LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
 
-("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf
-.mkii"
+("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count108
 \scratchdimen=\dimen115
@@ -285,42 +266,138 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 36.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<dens_spec_limedge_zoom.png, id=1, 584.1825pt x 451.6875pt>
-File: dens_spec_limedge_zoom.png Graphic file (type png)
 
-<use dens_spec_limedge_zoom.png>
-Package pdftex.def Info: dens_spec_limedge_zoom.png used on input line 46.
+Package natbib Warning: Citation `schaffner13' on page 1 undefined on input line 40.
+
+
+Package natbib Warning: Citation `penano00' on page 1 undefined on input line 42.
+
+
+Package natbib Warning: Citation `horton04' on page 1 undefined on input line 42.
+
+
+Package natbib Warning: Citation `perez06' on page 1 undefined on input line 42.
+
+
+Package natbib Warning: Citation `popovich10' on page 1 undefined on input line 42.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+[]\OT1/cmr/m/n/10 The vary-ing fea-tures of the spec-tral den-sity
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 functions---calculated us-ing the two-point cor-re-la-
+ []
+
+[1{C:/Users/David Schaffner/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<k_spec_byBias_lab.png, id=17, 993.82289pt x 1184.43318pt>
+File: k_spec_byBias_lab.png Graphic file (type png)
+ <use k_spec_byBias_lab.png>
+Package pdftex.def Info: k_spec_byBias_lab.png used on input line 58.
+(pdftex.def)             Requested size: 241.84842pt x 288.22775pt.
+
+
+LaTeX Warning: Reference `fig:velocity_profiles' on page 2 undefined on input line 66.
+
+
+LaTeX Warning: Reference `fig:k_spec_byBias' on page 2 undefined on input line 68.
+
+
+LaTeX Warning: Reference `fig:k_spec_byBias' on page 2 undefined on input line 70.
+
+[2 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/k_spec_byBias_lab.png>]
+<dens_spec_limedge_zoom.png, id=23, 584.1825pt x 451.6875pt>
+File: dens_spec_limedge_zoom.png Graphic file (type png)
+ <use dens_spec_limedge_zoom.png>
+Package pdftex.def Info: dens_spec_limedge_zoom.png used on input line 78.
 (pdftex.def)             Requested size: 241.84842pt x 186.99883pt.
- [1{C:/Users/David Schaffner/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
- <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/dens_spec_limedge_zoom.p
-ng>]
-("C:\Users\David Schaffner\Documents\GitHub\k_spec_pop\k_spec_pop1.bbl")
-[2] ("C:\Users\David Schaffner\Documents\GitHub\k_spec_pop\k_spec_pop1.aux") ) 
+
+<dens_spec_contours_4bias_lab.png, id=24, 1054.94125pt x 1205.50375pt>
+File: dens_spec_contours_4bias_lab.png Graphic file (type png)
+ <use dens_spec_contours_4bias_lab.png>
+Package pdftex.def Info: dens_spec_contours_4bias_lab.png used on input line 88.
+(pdftex.def)             Requested size: 241.84842pt x 276.3587pt.
+
+
+LaTeX Warning: Reference `fig:dens_flucs_profs' on page 3 undefined on input line 94.
+
+
+LaTeX Warning: Reference `fig:density_profs' on page 3 undefined on input line 100.
+
+[3 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/dens_spec_limedge_zoom.png> <C:/Users/David Schaffner/Documents
+/GitHub/k_spec_pop/dens_spec_contours_4bias_lab.png>] <m_spec_regions_lab.png, id=28, 447.6725pt x 656.4525pt>
+File: m_spec_regions_lab.png Graphic file (type png)
+
+<use m_spec_regions_lab.png>
+Package pdftex.def Info: m_spec_regions_lab.png used on input line 104.
+(pdftex.def)             Requested size: 241.84842pt x 354.64935pt.
+
+Overfull \hbox (173.75137pt too wide) in paragraph at lines 122--122
+[] 
+ []
+
+
+Overfull \hbox (89.98245pt too wide) in paragraph at lines 131--131
+[] 
+ []
+
+[4 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/m_spec_regions_lab.png>]
+Overfull \hbox (13.2377pt too wide) in paragraph at lines 149--149
+[] 
+ []
+
+<growth_freq_vs_mnum_lab.png, id=33, 1054.94125pt x 451.6875pt>
+File: growth_freq_vs_mnum_lab.png Graphic file (type png)
+ <use growth_freq_vs_mnum_lab.png>
+Package pdftex.def Info: growth_freq_vs_mnum_lab.png used on input line 182.
+(pdftex.def)             Requested size: 241.84842pt x 103.54822pt.
+ [5]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 187.
+
+<growth_density_20to32_lab.png, id=39, 1054.94125pt x 1205.50375pt>
+File: growth_density_20to32_lab.png Graphic file (type png)
+ <use growth_density_20to32_lab.png>
+Package pdftex.def Info: growth_density_20to32_lab.png used on input line 190.
+(pdftex.def)             Requested size: 241.84842pt x 276.3587pt.
+ [6 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/growth_freq_vs_mnum_lab.png> <C:/Users/David Schaffner/Documen
+ts/GitHub/k_spec_pop/growth_density_20to32_lab.png>] ("C:\Users\David Schaffner\Documents\GitHub\k_spec_pop\k_spec_pop1.
+bbl")
+
+Package natbib Warning: There were undefined citations.
+
+[7] ("C:\Users\David Schaffner\Documents\GitHub\k_spec_pop\k_spec_pop1.aux")
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4279 strings out of 493921
- 55579 string characters out of 3144846
- 129386 words of memory out of 3000000
- 7521 multiletter control sequences out of 15000+200000
+ 4327 strings out of 493921
+ 56735 string characters out of 3144846
+ 132543 words of memory out of 3000000
+ 7564 multiletter control sequences out of 15000+200000
  16491 words of font info for 60 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 34i,5n,28p,708b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
-<
-C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files (x86)/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on k_spec_pop1.pdf (2 pages, 217228 bytes).
+ 34i,12n,28p,1518b,337s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmbx7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on k_spec_pop1.pdf (7 pages, 32995185 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 116 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
