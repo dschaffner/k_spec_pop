@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.26)  24 OCT 2013 18:11
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.26)  25 OCT 2013 17:25
 entering extended mode
 **k_spec_pop1.tex
 ("C:\Users\David Schaffner\Documents\GitHub\k_spec_pop\k_spec_pop1.tex"
@@ -267,9 +267,6 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 36.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
-Package natbib Warning: Citation `schaffner13' on page 1 undefined on input line 40.
-
-
 Package natbib Warning: Citation `penano00' on page 1 undefined on input line 42.
 
 
@@ -278,198 +275,185 @@ Package natbib Warning: Citation `horton04' on page 1 undefined on input line 42
 
 Package natbib Warning: Citation `perez06' on page 1 undefined on input line 42.
 
-
-Package natbib Warning: Citation `popovich10' on page 1 undefined on input line 42.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
-[]\OT1/cmr/m/n/10 The vary-ing fea-tures of the spec-tral den-sity
- []
+<density_vel_profs_placeholder.png, id=1, 584.1825pt x 903.375pt>
+File: density_vel_profs_placeholder.png Graphic file (type png)
+ <use density_vel_profs_placeholder.png>
+Package pdftex.def Info: density_vel_profs_placeholder.png used on input line 54.
+(pdftex.def)             Requested size: 241.84842pt x 373.99765pt.
 
 
-Underfull \hbox (badness 7221) in paragraph at lines 48--49
-\OT1/cmr/m/n/10 functions---calculated us-ing the two-point cor-re-la-
+Package natbib Warning: Citation `horton04' on page 1 undefined on input line 58.
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 58--59
+\OMS/cmsy/m/n/10 $\OT1/cmr/m/n/10 60cm di-am-e-ter cylin-dri-cal plasma pro-duced by a
  []
 
 [1{C:/Users/David Schaffner/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<k_spec_byBias_lab.png, id=17, 993.82289pt x 1184.43318pt>
-File: k_spec_byBias_lab.png Graphic file (type png)
- <use k_spec_byBias_lab.png>
-Package pdftex.def Info: k_spec_byBias_lab.png used on input line 58.
-(pdftex.def)             Requested size: 241.84842pt x 288.22775pt.
 
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 59.
 
-LaTeX Warning: Reference `fig:velocity_profiles' on page 2 undefined on input line 66.
-
-
-LaTeX Warning: Reference `fig:k_spec_byBias' on page 2 undefined on input line 68.
-
-
-LaTeX Warning: Reference `fig:k_spec_byBias' on page 2 undefined on input line 70.
-
-[2 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/k_spec_byBias_lab.png>]
-<dens_spec_limedge_zoom.png, id=23, 584.1825pt x 451.6875pt>
+<dens_spec_limedge_zoom.png, id=19, 584.1825pt x 451.6875pt>
 File: dens_spec_limedge_zoom.png Graphic file (type png)
  <use dens_spec_limedge_zoom.png>
-Package pdftex.def Info: dens_spec_limedge_zoom.png used on input line 78.
+Package pdftex.def Info: dens_spec_limedge_zoom.png used on input line 66.
 (pdftex.def)             Requested size: 241.84842pt x 186.99883pt.
 
+<Dens_Flucs_Cont_24to28cm.png, id=20, 602.25pt x 388.69215pt>
+File: Dens_Flucs_Cont_24to28cm.png Graphic file (type png)
+ <use Dens_Flucs_Cont_24to28cm.png>
+Package pdftex.def Info: Dens_Flucs_Cont_24to28cm.png used on input line 74.
+(pdftex.def)             Requested size: 241.84842pt x 156.09091pt.
+ [2 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/density_vel_profs_placeholder.png> <C:/Users/David Schaffner/D
+ocuments/GitHub/k_spec_pop/dens_spec_limedge_zoom.png> <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/Dens_Flucs_
+Cont_24to28cm.png>]
 <dens_spec_contours_4bias_lab.png, id=24, 1054.94125pt x 1205.50375pt>
 File: dens_spec_contours_4bias_lab.png Graphic file (type png)
  <use dens_spec_contours_4bias_lab.png>
-Package pdftex.def Info: dens_spec_contours_4bias_lab.png used on input line 88.
+Package pdftex.def Info: dens_spec_contours_4bias_lab.png used on input line 82.
 (pdftex.def)             Requested size: 241.84842pt x 276.3587pt.
-
-
-LaTeX Warning: Reference `fig:dens_flucs_profs' on page 3 undefined on input line 94.
-
-
-LaTeX Warning: Reference `fig:density_profs' on page 3 undefined on input line 100.
-
-[3 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/dens_spec_limedge_zoom.png> <C:/Users/David Schaffner/Documents
-/GitHub/k_spec_pop/dens_spec_contours_4bias_lab.png>] <m_spec_regions_lab.png, id=28, 447.6725pt x 656.4525pt>
+ [3 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/dens_spec_contours_4bias_lab.png>]
+<k_spec_byBias_lab.png, id=28, 993.82289pt x 1184.43318pt>
+File: k_spec_byBias_lab.png Graphic file (type png)
+ <use k_spec_byBias_lab.png>
+Package pdftex.def Info: k_spec_byBias_lab.png used on input line 102.
+(pdftex.def)             Requested size: 241.84842pt x 288.22775pt.
+ [4 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/k_spec_byBias_lab.png>] <m_spec_regions_lab.png, id=33, 447.67
+25pt x 656.4525pt>
 File: m_spec_regions_lab.png Graphic file (type png)
 
 <use m_spec_regions_lab.png>
-Package pdftex.def Info: m_spec_regions_lab.png used on input line 104.
+Package pdftex.def Info: m_spec_regions_lab.png used on input line 118.
 (pdftex.def)             Requested size: 241.84842pt x 354.64935pt.
 
-Overfull \hbox (173.75137pt too wide) in paragraph at lines 122--122
+Overfull \hbox (173.75137pt too wide) in paragraph at lines 136--136
 [] 
  []
 
 
-Overfull \hbox (89.98245pt too wide) in paragraph at lines 131--131
+Overfull \hbox (89.98245pt too wide) in paragraph at lines 145--145
 [] 
  []
 
-[4 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/m_spec_regions_lab.png>]
-Overfull \hbox (13.2377pt too wide) in paragraph at lines 149--149
+
+Overfull \hbox (13.2377pt too wide) in paragraph at lines 163--163
 [] 
  []
 
-<growth_freq_vs_mnum_lab.png, id=33, 1054.94125pt x 451.6875pt>
+[5 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/m_spec_regions_lab.png>]
+<growth_freq_vs_mnum_lab.png, id=38, 1054.94125pt x 451.6875pt>
 File: growth_freq_vs_mnum_lab.png Graphic file (type png)
  <use growth_freq_vs_mnum_lab.png>
-Package pdftex.def Info: growth_freq_vs_mnum_lab.png used on input line 182.
+Package pdftex.def Info: growth_freq_vs_mnum_lab.png used on input line 196.
 (pdftex.def)             Requested size: 241.84842pt x 103.54822pt.
- [5]
+ [6]
 
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 187.
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 201.
 
-<growth_density_20to32_lab.png, id=39, 1054.94125pt x 1205.50375pt>
+<growth_density_20to32_lab.png, id=44, 1054.94125pt x 1205.50375pt>
 File: growth_density_20to32_lab.png Graphic file (type png)
  <use growth_density_20to32_lab.png>
-Package pdftex.def Info: growth_density_20to32_lab.png used on input line 190.
+Package pdftex.def Info: growth_density_20to32_lab.png used on input line 204.
 (pdftex.def)             Requested size: 241.84842pt x 276.3587pt.
 
-<k_spec_edge_3bias_lab.png, id=40, 584.1825pt x 752.8125pt>
+<k_spec_edge_3bias_lab.png, id=45, 584.1825pt x 752.8125pt>
 File: k_spec_edge_3bias_lab.png Graphic file (type png)
  <use k_spec_edge_3bias_lab.png>
-Package pdftex.def Info: k_spec_edge_3bias_lab.png used on input line 200.
+Package pdftex.def Info: k_spec_edge_3bias_lab.png used on input line 214.
 (pdftex.def)             Requested size: 241.84842pt x 311.6647pt.
- [6 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/growth_freq_vs_mnum_lab.png> <C:/Users/David Schaffner/Documen
-ts/GitHub/k_spec_pop/growth_density_20to32_lab.png>]
-
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 205.
-
-<k_spec_byRegion_lab.png, id=45, 584.1825pt x 752.8125pt>
+ [7 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/growth_freq_vs_mnum_lab.png> <C:/Users/David Schaffner/Documen
+ts/GitHub/k_spec_pop/growth_density_20to32_lab.png> <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/k_spec_edge_3b
+ias_lab.png>]
+<k_spec_byRegion_lab.png, id=52, 584.1825pt x 752.8125pt>
 File: k_spec_byRegion_lab.png Graphic file (type png)
  <use k_spec_byRegion_lab.png>
-Package pdftex.def Info: k_spec_byRegion_lab.png used on input line 208.
+Package pdftex.def Info: k_spec_byRegion_lab.png used on input line 222.
 (pdftex.def)             Requested size: 241.84842pt x 311.6647pt.
 
-<growth_density_12to25_lab.png, id=46, 1054.94125pt x 1205.50375pt>
+<growth_density_12to25_lab.png, id=53, 1054.94125pt x 1205.50375pt>
 File: growth_density_12to25_lab.png Graphic file (type png)
  <use growth_density_12to25_lab.png>
-Package pdftex.def Info: growth_density_12to25_lab.png used on input line 214.
+Package pdftex.def Info: growth_density_12to25_lab.png used on input line 228.
 (pdftex.def)             Requested size: 241.84842pt x 276.3587pt.
- [7 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/k_spec_edge_3bias_lab.png> <C:/Users/David Schaffner/Documents
-/GitHub/k_spec_pop/k_spec_byRegion_lab.png>]
+ [8 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/k_spec_byRegion_lab.png>]
 
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 221.
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 235.
 
-<deltaV_over_deltaN_cohmode.png, id=52, 584.1825pt x 451.6875pt>
+<deltaV_over_deltaN_cohmode.png, id=57, 584.1825pt x 451.6875pt>
 File: deltaV_over_deltaN_cohmode.png Graphic file (type png)
  <use deltaV_over_deltaN_cohmode.png>
-Package pdftex.def Info: deltaV_over_deltaN_cohmode.png used on input line 226.
+Package pdftex.def Info: deltaV_over_deltaN_cohmode.png used on input line 240.
 (pdftex.def)             Requested size: 241.84842pt x 186.99883pt.
 
 
-LaTeX Warning: Reference `fig:vort_profiles' on page 8 undefined on input line 230.
+LaTeX Warning: Reference `fig:vort_profiles' on page 9 undefined on input line 244.
 
-<growth_density_27p5to31_lab.png, id=53, 1054.94125pt x 1205.50375pt>
+<growth_density_27p5to31_lab.png, id=58, 1054.94125pt x 1205.50375pt>
 File: growth_density_27p5to31_lab.png Graphic file (type png)
  <use growth_density_27p5to31_lab.png>
-Package pdftex.def Info: growth_density_27p5to31_lab.png used on input line 234.
+Package pdftex.def Info: growth_density_27p5to31_lab.png used on input line 248.
 (pdftex.def)             Requested size: 241.84842pt x 276.3587pt.
 
-<k_spec_KH_lab.png, id=54, 584.1825pt x 752.8125pt>
+<k_spec_KH_lab.png, id=59, 584.1825pt x 752.8125pt>
 File: k_spec_KH_lab.png Graphic file (type png)
  <use k_spec_KH_lab.png>
-Package pdftex.def Info: k_spec_KH_lab.png used on input line 240.
+Package pdftex.def Info: k_spec_KH_lab.png used on input line 254.
 (pdftex.def)             Requested size: 241.84842pt x 311.6647pt.
- [8 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/growth_density_12to25_lab.png> <C:/Users/David Schaffner/Docum
+ [9 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/growth_density_12to25_lab.png> <C:/Users/David Schaffner/Docum
 ents/GitHub/k_spec_pop/deltaV_over_deltaN_cohmode.png>]
 
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 245.
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 259.
 
-
-LaTeX Warning: Reference `fig:velocity_profiles' on page 9 undefined on input line 248.
-
-<k_spec_byBias_24to28_lab.png, id=58, 584.1825pt x 752.8125pt>
+<k_spec_byBias_24to28_lab.png, id=63, 584.1825pt x 752.8125pt>
 File: k_spec_byBias_24to28_lab.png Graphic file (type png)
  <use k_spec_byBias_24to28_lab.png>
-Package pdftex.def Info: k_spec_byBias_24to28_lab.png used on input line 254.
+Package pdftex.def Info: k_spec_byBias_24to28_lab.png used on input line 268.
 (pdftex.def)             Requested size: 241.84842pt x 311.6647pt.
 
-<growth_density_24to28_lab.png, id=59, 1054.94125pt x 1205.50375pt>
+<growth_density_24to28_lab.png, id=64, 1054.94125pt x 1205.50375pt>
 File: growth_density_24to28_lab.png Graphic file (type png)
  <use growth_density_24to28_lab.png>
-Package pdftex.def Info: growth_density_24to28_lab.png used on input line 264.
+Package pdftex.def Info: growth_density_24to28_lab.png used on input line 278.
 (pdftex.def)             Requested size: 241.84842pt x 276.3587pt.
- [9 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/growth_density_27p5to31_lab.png> <C:/Users/David Schaffner/Doc
-uments/GitHub/k_spec_pop/k_spec_KH_lab.png>]
+ [10 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/growth_density_27p5to31_lab.png> <C:/Users/David Schaffner/Do
+cuments/GitHub/k_spec_pop/k_spec_KH_lab.png>]
 
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 269.
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 283.
 
-<fgm_vs_bias_lab.png, id=63, 584.1825pt x 602.25pt>
+<fgm_vs_bias_lab.png, id=68, 584.1825pt x 602.25pt>
 File: fgm_vs_bias_lab.png Graphic file (type png)
  <use fgm_vs_bias_lab.png>
-Package pdftex.def Info: fgm_vs_bias_lab.png used on input line 272.
+Package pdftex.def Info: fgm_vs_bias_lab.png used on input line 286.
 (pdftex.def)             Requested size: 241.84842pt x 249.33176pt.
- [10 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/k_spec_byBias_24to28_lab.png> <C:/Users/David Schaffner/Docum
+ [11 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/k_spec_byBias_24to28_lab.png> <C:/Users/David Schaffner/Docum
 ents/GitHub/k_spec_pop/growth_density_24to28_lab.png>]
 
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 279.
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 293.
 
-<eigfunc_comp.png, id=67, 580.569pt x 752.8125pt>
+<eigfunc_comp.png, id=72, 580.569pt x 752.8125pt>
 File: eigfunc_comp.png Graphic file (type png)
  <use eigfunc_comp.png>
-Package pdftex.def Info: eigfunc_comp.png used on input line 282.
+Package pdftex.def Info: eigfunc_comp.png used on input line 296.
 (pdftex.def)             Requested size: 241.84842pt x 313.59451pt.
- [11 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/fgm_vs_bias_lab.png> <C:/Users/David Schaffner/Documents/GitH
+ [12 <C:/Users/David Schaffner/Documents/GitHub/k_spec_pop/fgm_vs_bias_lab.png> <C:/Users/David Schaffner/Documents/GitH
 ub/k_spec_pop/eigfunc_comp.png>]
 ("C:\Users\David Schaffner\Documents\GitHub\k_spec_pop\k_spec_pop1.bbl")
 
 Package natbib Warning: There were undefined citations.
 
-[12] ("C:\Users\David Schaffner\Documents\GitHub\k_spec_pop\k_spec_pop1.aux")
+[13] ("C:\Users\David Schaffner\Documents\GitHub\k_spec_pop\k_spec_pop1.aux")
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
-
  ) 
 Here is how much of TeX's memory you used:
- 4388 strings out of 493921
- 58413 string characters out of 3144846
- 162232 words of memory out of 3000000
- 7615 multiletter control sequences out of 15000+200000
+ 4404 strings out of 493921
+ 58859 string characters out of 3144846
+ 163508 words of memory out of 3000000
+ 7629 multiletter control sequences out of 15000+200000
  16491 words of font info for 60 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 34i,12n,28p,2462b,337s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,12n,28p,2462b,347s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmbx7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
@@ -484,9 +468,9 @@ nts/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on k_spec_pop1.pdf (12 pages, 35543543 bytes).
+Output written on k_spec_pop1.pdf (13 pages, 36307840 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
+ 149 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
